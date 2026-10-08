@@ -1,0 +1,6 @@
+{
+  "name": "ShortsPilot",
+  "description": "Production-ready AI YouTube Shorts Autopilot System with US & India trend intelligence, multi-provider AI script & hook scoring, on-device 9:16 H.264 MP4 rendering with TTS & captions, YouTube Data & Analytics API integration, failure diagnostics, and autonomous channel optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

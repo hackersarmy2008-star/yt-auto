@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShortsPilot</string>
+    <string name="autopilot_active">AUTOPILOT ACTIVE</string>
+    <string name="autopilot_manual">APPROVAL MODE</string>
+    <string name="disclaimer_no_fake_virality">Optimization Notice: ShortsPilot does not guarantee viral videos. All recommendations state measurable retention and CTR probability improvements derived from channel telemetry.</string>
+    <string name="security_warning_apk">Security Warning: API keys configured via BuildConfig are packaged for prototype/local execution. Do not share this APK file publicly or with unauthorized individuals.</string>
+</resources>
